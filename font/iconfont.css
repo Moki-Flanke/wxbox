@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url('./iconfont.eot'); /* IE9 */
+    src: url('./iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./iconfont.woff2') format('woff2'),
+         url('./iconfont.woff') format('woff'),
+         url('./iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+         url('./iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xiangyoujiantou:before { content: "\e900"; }
+.icon-sousuo:before { content: "\e901"; }
+.icon-shouye:before { content: "\e902"; }
+.icon-shoucangxiao:before { content: "\e903"; }
+.icon-lishi:before { content: "\e904"; }
+.icon-xiaoxi:before { content: "\e905"; }
+.icon-fensi:before { content: "\e906"; }
+.icon-chuangzuo:before { content: "\e907"; }
+.icon-zhuxiaoyuan:before { content: "\e908"; }
+.icon-rijian:before { content: "\e909"; }
+.icon-yejian:before { content: "\e90a"; }
